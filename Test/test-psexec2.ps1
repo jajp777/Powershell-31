@@ -1,0 +1,1 @@
+﻿C:\Script\Sources\PSTools\PsExec.exe \\192.168.200.209 -u RPS_JAURE_INF10\*** -p *** cmd /c ipconfig

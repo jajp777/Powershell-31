@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8' ?>
+    <Snippets  xmlns='http://schemas.microsoft.com/PowerShell/Snippets'>
+        <Snippet Version='1.0.0'>
+            <Header>
+                <Title>Script-Snippet</Title>
+                <Description>A template for a script</Description>
+                <Author></Author>
+                <SnippetTypes>
+                    <SnippetType>Expansion</SnippetType>
+                </SnippetTypes>
+            </Header>
+
+            <Code>
+                <Script Language='PowerShell' CaretOffset='0'>
+                    <![CDATA[<#
+
+  	.NOTES
+======================================================================
+	Created on:   	01/01/2015
+ 	Created by:   	JCU
+	Organization: 	CARL Software
+	Script name:	A SCRIPT
+	Description:	Do something
+    Version:		1.0
+======================================================================
+
+#>
+
+Cls
+
+#== Modules & Assembly ===============================================
+#=====================================================================
+
+
+#== Functions ========================================================
+#=====================================================================
+
+
+#== Vars =============================================================
+#=====================================================================
+
+
+#== Main =============================================================
+#=====================================================================
+]]>
+                </Script>
+            </Code>
+
+    </Snippet>
+</Snippets>
+

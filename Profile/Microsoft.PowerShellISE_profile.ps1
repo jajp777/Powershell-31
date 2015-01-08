@@ -1,6 +1,4 @@
 Import-Module PsGet
-Import-Module posh-git
-Import-Module SSH-Sessions
 
 function prompt {       
 
@@ -49,13 +47,3 @@ function prompt {
         return " "
     }
  }
-
-
-
-
-
-
-
-
-
-Import-Module PsCSA
